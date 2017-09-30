@@ -1,6 +1,6 @@
 # Aprendizaje NodeJS
 
-This has done with the help of [this tutorial](https://www.nodebeginner.org/)
+This has done with the help of [this tutorial](https://www.nodebeginner.org/) & [this link](http://www.hylianux.com/downloads/nodebeginner.pdf)
 
 ## Use Case
 
