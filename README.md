@@ -1,6 +1,8 @@
-#Aprendizaje NodeJS
+# Aprendizaje NodeJS
+
 This has done with the help of [this tutorial](https://www.nodebeginner.org/)
-##Use Case
+
+## Use Case
 
 Let's keep it simple, but realistic:
 
